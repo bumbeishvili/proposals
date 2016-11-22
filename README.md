@@ -1,7 +1,7 @@
 # proposals
 
 
-1. [d3.js simple calculator](https://www.upwork.com/jobs/_~01280a03d3085d8f65/)
+1. ## [d3.js simple calculator](https://www.upwork.com/jobs/_~01280a03d3085d8f65/)
 
 ```
 Hi, I am interested in this job
