@@ -1,8 +1,10 @@
 # proposals
 
 
-[d3.js simple calculator](https://www.upwork.com/jobs/_~01280a03d3085d8f65/)
->Hi, I am interested in this job
+1. [d3.js simple calculator](https://www.upwork.com/jobs/_~01280a03d3085d8f65/)
+
+```
+Hi, I am interested in this job
 
 I will just write down short list of visualizations & calculations I have done in the past to represent myself
 
@@ -29,3 +31,4 @@ According to example, you have linked, down payment % is static number, so I don
 
 Best regards 
 Dato
+```
