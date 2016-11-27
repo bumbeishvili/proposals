@@ -2,7 +2,7 @@
 
 
 ## 1.  [D3.js simple calculator](https://www.upwork.com/jobs/_~01280a03d3085d8f65/)
-**status: nothing **
+**status: nothing**
 ```
 Hi, I am interested in this job
 
