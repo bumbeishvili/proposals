@@ -1,6 +1,28 @@
 # proposals
 
 
+# Hired
+__
+### 1.  [Organizational Chart using d3.js](https://www.upwork.com/jobs/~0140ed0f2c218d697f)
+
+```
+Hi, I have seen your job and I liked it. So , I tried to implement your requests and modified your jsfiddle chart  
+
+1. I allowed user to zoom out  
+
+2. I have added image on square 
+
+3. I also have implemented to show logged user in a tree 
+
+4. I have added tooltip  Here is result   http://s.codepen.io/bumbeishvili/debug/rLkjVw  
+
+ Of course it's ugly yet, but it will be more beautiful after I will work on it.  If you are interested , you can view my personal web page to get more info about me  http://bumbeishvili.github.io/  
+ 
+ Please contact , if you decide to hire me for this job
+ ```
+
+
+
 ## 1.  [D3.js simple calculator](https://www.upwork.com/jobs/_~01280a03d3085d8f65/)
 **status: nothing**
 ```
@@ -49,3 +71,4 @@ You are trying to help people (which want to buy a house) to analyze their finan
 
 House worth value calculation (if this square item prices are local) is for calculating real value and also for fun
 ```
+
