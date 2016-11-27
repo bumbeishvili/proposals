@@ -20,8 +20,36 @@ Hi, I have seen your job and I liked it. So , I tried to implement your requests
  
  Please contact , if you decide to hire me for this job
  ```
+ 
+### 2.[Custom high performance charts/data visualization for 100 000/1 000 000+ datapoints](https://www.upwork.com/jobs/~011309e7bc70717524)
+ ```
+ Hi, I am interested in your project  
+ 
+ Currently I am working as junior asp.net developer in bank of Georgia (Georgia is country) , I work on data visualization projects on upwork as well. 
+  So I look as I am naturally fitted with this project :$  
+  
+  You can get more info on my personal website - bumbeishvili.github.io  
+  
+  About that project and related experience: I have developed several d3.js based charts  Some of them, which use thousands of datasets are:  
+  
+  1. https://s.codepen.io/bumbeishvili/debug/yayErR - Employees Hierarchy chart It uses 1500 employees datapoints and works without performance problems  
+  
+  2. http://s.codepen.io/bumbeishvili/debug/reqPav - Average Temperature Heatmap it uses 3000 datapoints and also works without performance problems  
+  
+  3. http://s.codepen.io/bumbeishvili/debug/vKYygY - Meteorite Strikes (relatively old project) it uses 1000 datapoints  
+  
+  First of all ,I need current underperforming chart screenshots, to detect what type of charts you want, Then we can agree other terms, if you decide to hire me.  
+  
+  Looking forward to hearing back from you and hope we can work together   
+  
+  Sincerely Dato 
+ ```
 
 
+
+
+
+# Submitted 
 
 ## 1.  [D3.js simple calculator](https://www.upwork.com/jobs/_~01280a03d3085d8f65/)
 **status: nothing**
