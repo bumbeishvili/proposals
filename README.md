@@ -86,3 +86,48 @@ I have looked into designs :
   Dato B.
 ```
 
+
+
+1. [Implement graphs with forecasting using D3.js](https://www.upwork.com/jobs/~01fffb49a32d4b9539)
+```
+Hi, I am interested in this job, it seems challenging and these charts will be good additions for my portfolio 
+
+I have looked into designs : 
+
+As I see, all charts have same layout and there are only five different paths , with different tooltips , that's good because I can apply same technique for all types charts ...
+
+If you decide to hire me for this project, I will be available 20 hours in a week and can start working from Friday ...
+
+
+
+
+These are d3 projects I have done in the past: 
+1. https://s.codepen.io/bumbeishvili/debug/YpKzBV - this chart visualizes 360 assessment scores for one employee 
+
+2. https://s.codepen.io/bumbeishvili/debug/WGkxKy - this is custom designed chart (sectors are clickable) , 
+
+3. https://bumbeishvili.github.io/chartjs-to-d3js/- this is simple line and pie chart example, purpose of this project, is to mimic chart.js basic graphs 
+
+
+I have also created more d3.js charts, , not everyone is relevant for this project, but I will list them anyway: 
+
+1. https://s.codepen.io/bumbeishvili/debug/LROkRo - visualizes exit polls results, and shows differences with real data 
+
+2. https://s.codepen.io/bumbeishvili/debug/yayErR - organization chart 
+
+3. https://github.com/bumbeishvili/free-code-camp-projects - here ,in data visualization section, are my old projects 
+
+if you want to know more, about me and my projects , please, take a look on my personal website 
+
+https://bumbeishvili.github.io 
+
+
+I am using git for source control , and trello for issue tracking & management (You will be able to easily track project progress) 
+
+
+Hope we will have long term relationship :) 
+
+Best regards 
+
+Dato B.
+```
