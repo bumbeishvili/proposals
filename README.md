@@ -131,3 +131,72 @@ Best regards
 
 Dato B.
 ```
+
+
+
+// bevri viwvale amaze
+```
+Hi, I am interested in this job, it seems challenging and this network graph  will be good addition for my upwork portfolio 
+
+So, my opinions and questions about the features :
+
+1. collision detection - based on example, you have linked, I don't think it will be hard to implement this
+
+
+2. collapsible children nodes - as I see from example, collapsibility is implemented same way , in different d3.js examples  .   
+    I have implemented this feature, past, in the organization chart (https://s.codepen.io/bumbeishvili/debug/yayErR  )
+so, I think It will not be hard to implement  this feature here either
+
+3. so, by toggles you mean when user clicks node, it collapses, and when user clicks again same node, it will expand neighbors, right? 
+
+4. In this step, you only want to attach these callbacks to the on click, dblclick, and mouseover events? 
+
+5. I haven't tried this in the past  , so , some research would be needed in that step
+
+6. as I understand you want simple tooltip, which shows "hover_text" text on mouse over , but what you mean by "change back to 'name' on mouseout"? what is name variable here? 
+
+7. This attribute changing is easy, but when size grows, then nodes must arranged to adapt new size, so , here  would also be needed research 
+
+
+
+
+I will list my past projects, for your information about my experience:
+
+1. https://s.codepen.io/bumbeishvili/debug/YpKzBV - this chart visualizes 360 assessment scores for one employee 
+
+2. https://s.codepen.io/bumbeishvili/debug/WGkxKy - this is custom designed chart (sectors are clickable) , with advanced interactivity
+
+3. https://bumbeishvili.github.io/chartjs-to-d3js/-  purpose of this project, is to mimic chart.js basic graphs 
+
+4. https://s.codepen.io/bumbeishvili/debug/LROkRo - visualizes exit polls results, and shows differences with real data 
+
+5. https://s.codepen.io/bumbeishvili/debug/yayErR - organization chart  
+
+6 . https://github.com/bumbeishvili/free-code-camp-projects - here ,in data visualization section, are my old projects 
+
+
+if you want to know more, about me and my projects , please, take a look on my personal website 
+
+https://bumbeishvili.github.io 
+
+
+
+
+I am using git for source control 
+
+private github repository for development (I will give you dev access, if you have account) 
+
+issues for task and progress management
+
+github pages for displaying up to date results  (for example, this is one of my ongoing projects live preview - https://bumbeishvili.github.io/simple-dashboard-reports/nestedPie/nestedPie.html)
+
+One question :  What is deadline for this project?
+
+I can start working from Thursday and can work  max 20-30 h  in a week ...
+
+I hope we will have long term relationship :) 
+
+Best regards 
+
+Dato B
+```
